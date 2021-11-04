@@ -166,7 +166,7 @@
   position: relative;
   margin-top: 40px;
   padding-top: 50%;
-  background: url(/assets/photos/chicago.jpg) no-repeat center;
+  background: url(./assets/photos/chicago.jpg) no-repeat center;
   background-size: cover;
   line-height: 30px;
 }
