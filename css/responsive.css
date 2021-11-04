@@ -1,0 +1,64 @@
+/* Moblie */
+@media (min-width: 46.1875em) {
+  .btn {
+    padding: 15px 16px;
+  }
+  .contact-form .form-control {
+    padding: 12px;
+  }
+  .tbl-width {
+    width: 100%;
+  }
+}
+@media (max-width: 46.1875em) {
+  .footer .copyright {
+    padding: 12px 0;
+  }
+
+  .s-mt-8 {
+    margin-top: 8px !important;
+  }
+  .nav {
+    display: block;
+  }
+  .nav > li {
+    display: block;
+  }
+  .nav > li:first-child {
+    display: inline-block;
+  }
+  .header .mobile-menu-btn {
+    display: block;
+  }
+  .header .search-btn {
+    display: none;
+  }
+  .header {
+    overflow: hidden;
+  }
+  .nav .subnav {
+    /* Giá trị mặc định của subnav */
+    position: initial;
+    background-color: #333;
+  }
+  .content .member-item {
+    margin-top: 50px;
+    width: 100%;
+  }
+  .content .member-img {
+    width: 60%;
+  }
+  .content .about-text {
+    align-items: center;
+    padding: 0 20px;
+  }
+  .place-list {
+    padding: 0 20px;
+  }
+  .s-col-full {
+    width: 100% !important;
+  }
+  .contact-form {
+    margin-top: 16px;
+  }
+}
